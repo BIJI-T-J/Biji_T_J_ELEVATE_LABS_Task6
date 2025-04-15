@@ -1,6 +1,6 @@
 # Biji_T_J_ELEVATE_LABS_Task6
 ### In this project we analyse the online sales data of G-Mart in 2018 using mysql
-### step 1: create database named 'elevate'
+### step 1: create database named 'onlinesales'
 ### step 2: Imported data orders.csv, details.csv
 ### step 3: Cleaned data. Made sure there is no null values or duplicated. Changed the field name of data and added 2 more columns
 * order_month column retrieved from order_date column
